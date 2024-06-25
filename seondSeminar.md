@@ -21,20 +21,12 @@
 удаляет ветку
 ## git chekout -b test
 создаем ветку и перешли на нее
-sdfgsdfg
-sddddd
-g
-d
-dddddd
-dddddddddddddddddasdasd
-sdfgsdfg
-ddvvvvvvvddddddddddddddddddddddddddddddddddd
-sdddddddddddd
-dddddd
-sdfg
-ddddddddddd
-vfgdf
-gsdfg
-dfgsdf
-sdfgsdfg
-ffffffff
+
+
+## что то
+
+asdasd
+asdasd
+asdasdasd
+asdasd
+asdasdas sssssssssssssssssssssssssssssssss
