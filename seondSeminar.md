@@ -22,11 +22,5 @@
 ## git chekout -b test
 создаем ветку и перешли на нее
 
-
-## что то
-
-gvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-
-asdasdasd
-sdddddddddddddddddddddddddddddddddd
-asdasdas sssssssssssssssssssssssssssssssss
+sddddd
+g
