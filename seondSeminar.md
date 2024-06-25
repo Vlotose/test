@@ -9,5 +9,11 @@
 создает ветку с именем
 ## git merge creating
 обьединяет ветки (выбранную в текущую)
+## Auto-merging seondSeminar.md Merge made by the 'ort' strategy
+Когда изменения из двух сразу веток. 
+## Fast-forward
+Когда из одной ветки обновление.
+
+
 
 ///
