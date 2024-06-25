@@ -2,7 +2,7 @@
 ### Creating branches
 ### Merging branches
 ### Conflicts
-
+безболезненная информация внесена
 ## git branch
 просмотр веток
 ## git branch имя
