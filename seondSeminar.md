@@ -2,7 +2,11 @@
 ### Creating branches
 ### Merging branches
 ### Conflicts
-безболезненная информация внесена
+Конфликты возникают, когда затронуто общее пространство.
+
+
+
+
 ## git branch
 просмотр веток
 ## git branch имя
